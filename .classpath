@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/selenium-server-4.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/jar_files/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/jar_files/jquery-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/jar_files/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="/Users/gamer/Desktop/QA/SeleniumJars/jar_files/testng-7.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
